@@ -19,6 +19,10 @@
 
  - Johan Groenen (Netherlands): http://www.jgroenen.nl/
 
+## Open Data
+
+ - Amsterdam: http://data.amsterdam.nl/
+
 ## Projects and solutions
 
  - TourBuzz: daily city information for Coach busses (Amsterdam, http://www.tiltshift.nl)
