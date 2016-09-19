@@ -17,7 +17,7 @@
 
 ## People
 
-Johan Groenen (Netherlands)
+ - Johan Groenen (Netherlands): http://www.jgroenen.nl/
 
 ## Projects and solutions
  - maybe we could build/use a webapp for this?
