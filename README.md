@@ -20,5 +20,9 @@
  - Johan Groenen (Netherlands): http://www.jgroenen.nl/
 
 ## Projects and solutions
+
+ - TourBuzz: daily city information for Coach busses (Amsterdam, http://www.tiltshift.nl)
+ - Makkelijke Markt (Easy Markets): app for daily registration of street traders (Amsterdam, http://www.tiltshift.nl)
+
  - maybe we could build/use a webapp for this?
  - move this to another file (projects.md)?
