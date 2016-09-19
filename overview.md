@@ -3,7 +3,8 @@
 ## Teams
 
 ### Helsinki (Finland)
- - https://dev.hel.fi/
+ - Forum Virium (Code for Finland): https://forumvirium.fi/
+ - Helsinki Code Fellows: https://dev.hel.fi/
 
 ### Eindhoven (Netherlands)
  - Code for Eindhoven: https://twitter.com/code4eindhoven
