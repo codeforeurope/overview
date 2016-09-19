@@ -26,3 +26,7 @@
 
  - maybe we could build/use a webapp for this?
  - move this to another file (projects.md)?
+
+## News articles
+
+ - https://e52.nl/smart-society-eindhoven-7-schakel-een-programmeur-in/
