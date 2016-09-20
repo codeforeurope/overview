@@ -18,15 +18,21 @@
 ## People
 
  - Johan Groenen (Netherlands): http://www.jgroenen.nl/
+ - Riku Oja (Helsinki): http://dev.hel.fi/
 
 ## Open Data
 
  - Amsterdam: http://data.amsterdam.nl/
+ - Helsinki Region Infoshare: http://www.hri.fi
 
 ## Projects and solutions
 
  - TourBuzz: daily city information for Coach busses (Amsterdam, http://www.tiltshift.nl)
  - Makkelijke Markt (Easy Markets): app for daily registration of street traders (Amsterdam, http://www.tiltshift.nl)
+ - Service Map: open source city service map (Helsinki, https://dev.hel.fi/projects/service-map)
+ - Kerro kantasi: open source participatory democracy website (Helsinki, https://dev.hel.fi/projects/kerro-kantasi)
+ - Respa: open source resource booking API (Helsinki, https://dev.hel.fi/projects/respa/)
+ - Linkedevents: open source event database and API (Helsinki, https://dev.hel.fi/projects/linked-events/)
 
  - maybe we could build/use a webapp for this?
  - move this to another file (projects.md)?
