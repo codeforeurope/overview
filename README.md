@@ -7,14 +7,14 @@
  - Helsinki Code Fellows: https://dev.hel.fi/
 
 ### Eindhoven (Netherlands)
- - Twitter: https://twitter.com/code4eindhoven
- - Facebook: https://www.facebook.com/codeforeindhoven
- - Github: https://github.com/CodeForEindhoven
+ - [Twitter](https://twitter.com/code4eindhoven)
+ - [Facebook](https://www.facebook.com/codeforeindhoven)
+ - [Github](https://github.com/CodeForEindhoven)
 
 ### Amsterdam (Netherlands)
- - Waag (Code for NL): https://www.waag.org
- - DataLab (workspace): https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/
- - DataLab (FIX teams): http://www.tiltshift.nl
+ - [Waag, Code for NL](https://www.waag.org)
+ - [DataLab workspace](https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/)
+ - [DataLab FIX teams](http://www.tiltshift.nl)
 
 ## People
 
@@ -31,6 +31,7 @@
 
  - Amsterdam: http://data.amsterdam.nl/
  - Helsinki Region Infoshare: http://www.hri.fi
+ - Eindhoven: https://data.eindhoven.nl/
 
 ## Projects and solutions
 
@@ -41,12 +42,12 @@
  - Respa: open source resource booking API (Helsinki, https://dev.hel.fi/projects/respa/)
  - Linkedevents: open source event database and API (Helsinki, https://dev.hel.fi/projects/linked-events/)
  - IdeaGarden: Have citizens participate in urban planning (Eindhoven, https://github.com/CodeForEindhoven/IdeaGarden)
- - Open311 Android: Open Source Android Client for open311 endpoints (Eindhoven, https://github.com/CodeForEindhoven/open311-android)
- - Buurtpreventie: Planning application for Neighborhoud watch (Eindhoven, https://github.com/CodeForEindhoven/buurtpreventie)
+ - Open311 Android: Open Source Android Client for open311 endpoints (Eindhoven, [Github](https://github.com/CodeForEindhoven/open311-android))
+ - Buurtpreventie: Planning application for Neighborhoud watch (Eindhoven, [Github](https://github.com/CodeForEindhoven/buurtpreventie))
  
  - maybe we could build/use a webapp for this?
  - move this to another file (projects.md)?
 
 ## News articles
 
- - https://e52.nl/smart-society-eindhoven-7-schakel-een-programmeur-in/
+ - Article in [e52 - Eindhoven tech news](https://e52.nl/smart-society-eindhoven-7-schakel-een-programmeur-in/) (in dutch)
