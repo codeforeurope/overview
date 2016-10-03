@@ -7,8 +7,9 @@
  - Helsinki Code Fellows: https://dev.hel.fi/
 
 ### Eindhoven (Netherlands)
- - Code for Eindhoven: https://twitter.com/code4eindhoven
- - Code for Eindhoven: https://www.facebook.com/codeforeindhoven
+ - Twitter: https://twitter.com/code4eindhoven
+ - Facebook: https://www.facebook.com/codeforeindhoven
+ - Github: https://github.com/CodeForEindhoven
 
 ### Amsterdam (Netherlands)
  - Waag (Code for NL): https://www.waag.org
@@ -17,8 +18,14 @@
 
 ## People
 
+ - Ivonne Jansen-Dings (Netherlands)
  - Johan Groenen (Netherlands): http://www.jgroenen.nl/
  - Riku Oja (Helsinki): http://dev.hel.fi/
+ - Milo van der Linden (Netherlands, Curaçao, Jamaica): http://www.dogodigi.net
+ - Marcel Goethals (Netherlands): http://www.wolkenmachine.nl/
+ - Bas Biezemans (Netherlands, Taiwan)
+ - Job Spierings (Netherlands)
+ - Coen Bergman (Netherlands)
 
 ## Open Data
 
