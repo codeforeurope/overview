@@ -6,6 +6,7 @@ We do this in order to solve real, human problems in a reusable, flexible, inclu
 We empower local communities to build, share and adapt civic tech to solve local challenges while profiting from the shared experience of an international network of likeminded fellows.
 
 #Principles
+
 ### Civic tech should be owned by the community
 We believe civic tech should be owned by the people, open source and transparent.
 
@@ -14,3 +15,6 @@ Fast, iterative development and testing.
 
 ### We'd rather have Empathic than Smart cities
 It's not about the technology, it's about the people.
+
+### i18n
+Civic tech should be reusable by all. That is why i18n should be at the core of any solution.
