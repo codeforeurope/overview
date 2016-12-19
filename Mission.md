@@ -7,7 +7,7 @@ We empower local communities to build, share and adapt civic tech to solve local
 
 #Principles
 ### Civic tech should be owned by the community
-We beleive civic tech should be owned by the people, open source and transparent.
+We believe civic tech should be owned by the people, open source and transparent.
 
 ### Prototype, prototype, prototype
 Fast, iterative development and testing.
