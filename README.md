@@ -47,6 +47,8 @@
    - Frontend/UI [Github](https://github.com/fastmonkeys/respa-ui)
    - Backend [Github](https://github.com/City-of-Helsinki/respa)
  - Linkedevents: open source event database and API (Helsinki, https://dev.hel.fi/projects/linked-events/)
+   - Frontend/UI [Github](https://github.com/City-of-Helsinki/linkedevents-ui)
+   - Backend [Github](https://github.com/City-of-Helsinki/linkedevents)
  - IdeaGarden: Have citizens participate in urban planning (Eindhoven, [Github](https://github.com/CodeForEindhoven/IdeaGarden))
  - Open311 Android: Open Source Android Client for open311 endpoints (Eindhoven, [Github](https://github.com/CodeForEindhoven/open311-android))
  - Buurtpreventie: Planning application for Neighborhoud watch (Eindhoven, [Github](https://github.com/CodeForEindhoven/buurtpreventie))
