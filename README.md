@@ -1,10 +1,26 @@
+# ATTENTION
+
+We are trying to list all available existing Code For products and services and listing project ideas and problems for future collaboration projects between European cities / fellowships.
+
 # Overview of Code For Europe and related stuff
+
+## Links
+ - Code for Europe: http://codeforeurope.net/
+ - Code for All: https://codeforall.org/
+ - Code for All Partners: https://codeforall.org/partners/
 
 ## Teams
 
-### Helsinki (Finland)
+### Finland
  - Forum Virium (Code for Finland): https://forumvirium.fi/
+ - 6Aika: https://6aika.fi/in-english/
+
+### Helsinki (Finland)
  - Helsinki Code Fellows: https://dev.hel.fi/
+ 
+### Netherlands
+- Waag: https://www.waag.org
+- Code for NL: http://codefor.nl
 
 ### Eindhoven (Netherlands)
  - [Twitter](https://twitter.com/code4eindhoven)
@@ -12,12 +28,23 @@
  - [Github](https://github.com/CodeForEindhoven)
 
 ### Amsterdam (Netherlands)
- - [Waag, Code for NL](https://www.waag.org)
- - [DataLab workspace](https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/)
- - [DataLab FIX teams](http://www.tiltshift.nl)
+ - DataLab Amsterdam (data coworking space): https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/
+ - FIX teams (service design for cities): http://www.tiltshift.nl
+
+### Germany
+ - Code for Germany: http://codefor.de/
+
+### Ireland
+ - Code for Ireland: http://codeforireland.com/
+
+### Romania
+ - Code for Romania: ?
+ - Girls Who Code: https://www.girlswhocode.ro/
+
+### Poland
+ - Code for Poland: http://kodujdlapolski.pl/
 
 ## People
-
  - Ivonne Jansen-Dings (Netherlands)
  - Johan Groenen (Netherlands): http://www.jgroenen.nl/
  - Riku Oja (Helsinki): http://dev.hel.fi/
@@ -28,13 +55,11 @@
  - Coen Bergman (Netherlands)
 
 ## Open Data
-
  - Amsterdam: http://data.amsterdam.nl/
  - Helsinki Region Infoshare: http://www.hri.fi
  - Eindhoven: https://data.eindhoven.nl/
 
 ## Projects and solutions
-
  - TourBuzz: daily city information for Coach busses (Amsterdam, http://www.tiltshift.nl)
  - Makkelijke Markt (Easy Markets): app for daily registration of street traders (Amsterdam, http://www.tiltshift.nl)
  - Service Map: open source city service map (Helsinki, https://dev.hel.fi/projects/service-map)
@@ -52,9 +77,6 @@
  - IdeaGarden: Have citizens participate in urban planning (Eindhoven, [Github](https://github.com/CodeForEindhoven/IdeaGarden))
  - Open311 Android: Open Source Android Client for open311 endpoints (Eindhoven, [Github](https://github.com/CodeForEindhoven/open311-android))
  - Buurtpreventie: Planning application for Neighborhoud watch (Eindhoven, [Github](https://github.com/CodeForEindhoven/buurtpreventie))
- 
- - maybe we could build/use a webapp for this?
- - move this to another file (projects.md)?
 
 ## News articles
 
