@@ -14,9 +14,10 @@ This is an overview of Code for Europe and related activities. As Code for Europ
 
 ### Social Media
 
-- LinkedIn Group:
+- LinkedIn Group: https://www.linkedin.com/groups/13514022
 - Twitter: @codeforeu Main Twitter account for Code for Europe
 - Twitter: @code4europe Old Twitter account (unknown owner)
+- Slack: codeforall.slack.com #region-europe (request your invite johan.groenen@gmail.com)
 
 - Twitter: @codefornl Main Twitter account for Code for NL
 
@@ -31,6 +32,10 @@ This is an overview of Code for Europe and related activities. As Code for Europ
 - Google drive
 
 - https://github.com/codefornl Main git for Code for NL
+
+### Projects overview
+
+- https://ogptoolbox.org/ OGP Toolbox
 
 # ATTENTION
 
