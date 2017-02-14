@@ -14,6 +14,10 @@ This is an overview of Code for Europe and related activities. As Code for Europ
 
 Event calendar
 
+#### https://www.meetup.com/Code-For-NL-Meetup/
+
+Code for NL meetup group
+
 ### Websites
 
 #### http://www.codefor.eu
