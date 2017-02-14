@@ -18,6 +18,8 @@ This is an overview of Code for Europe and related activities. As Code for Europ
 - Twitter: @codeforeu Main Twitter account for Code for Europe
 - Twitter: @code4europe Old Twitter account (unknown owner)
 - Slack: codeforall.slack.com #region-europe (request your invite johan.groenen@gmail.com)
+- Mailchimp
+- Mailgun
 
 - Twitter: @codefornl Main Twitter account for Code for NL
 
