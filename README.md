@@ -4,36 +4,71 @@ This is an overview of Code for Europe and related activities. As Code for Europ
 
 ## Resources
 
-### Websites
+### ROUND TABLE
 
-- http://www.codefor.eu Main website for Code for Europe
-- http://www.codeforeurope.net Old website for Code for Europe
-- http://codeforeurope.eu/ Old website for Commons for Europe
-
-- http://www.codefor.nl Main website for Code for NL
-
-### Social Media
-
-- LinkedIn Group: https://www.linkedin.com/groups/13514022
-- Twitter: @codeforeu Main Twitter account for Code for Europe
-- Twitter: @code4europe Old Twitter account (unknown owner)
-- Slack: codeforall.slack.com #region-europe (request your invite johan.groenen@gmail.com)
-- Mailchimp
-- Mailgun
-
-- Twitter: @codefornl Main Twitter account for Code for NL
+#### Weekly round table Google Hangout every Tuesdaynight (see calendar below)
 
 ### Events
 
-- Event calendar: https://calendar.google.com/calendar/embed?src=qsvt3n6jmd85jdnk5i7a5qo22o%40group.calendar.google.com
-- Weekly round table Google Hangout every Tuesdaynight (see calendar)
+#### https://calendar.google.com/calendar/embed?src=qsvt3n6jmd85jdnk5i7a5qo22o%40group.calendar.google.com
+
+Event calendar
+
+### Websites
+
+#### http://www.codefor.eu
+
+Main website for Code for Europe
+
+#### http://www.codeforeurope.net
+
+Old website for Code for Europe
+
+#### http://codeforeurope.eu/
+
+Old website for Commons for Europe
+
+#### http://www.codefor.nl
+
+Main website for Code for NL
+
+### Social Media
+
+#### https://www.linkedin.com/groups/13514022
+
+LinkedIn Group
+
+#### @codeforeu
+
+Main Twitter account for Code for Europe
+
+#### @code4europe
+
+Old Twitter account (unknown owner)
+
+#### @codefornl
+
+Main Twitter account for Code for NL
+
+#### codeforall.slack.com #region-europe
+
+Request your invite johan.groenen@gmail.com
+
+#### Mailchimp
+
+#### Mailgun
 
 ### Files
 
-- https://github.com/codeforeurope Main git for Code for Europe
-- Google drive
+#### https://github.com/codeforeurope
 
-- https://github.com/codefornl Main git for Code for NL
+Main git for Code for Europe
+
+#### Google drive
+
+#### https://github.com/codefornl
+
+Main git for Code for NL
 
 ### Projects overview
 
