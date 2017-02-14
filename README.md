@@ -1,3 +1,37 @@
+# Code for Europe
+
+This is an overview of Code for Europe and related activities. As Code for Europe evolves, this document will change along.
+
+## Resources
+
+### Websites
+
+- http://www.codefor.eu Main website for Code for Europe
+- http://www.codeforeurope.net Old website for Code for Europe
+- http://codeforeurope.eu/ Old website for Commons for Europe
+
+- http://www.codefor.nl Main website for Code for NL
+
+### Social Media
+
+- LinkedIn Group:
+- Twitter: @codeforeu Main Twitter account for Code for Europe
+- Twitter: @code4europe Old Twitter account (unknown owner)
+
+- Twitter: @codefornl Main Twitter account for Code for NL
+
+### Events
+
+- Event calendar: https://calendar.google.com/calendar/embed?src=qsvt3n6jmd85jdnk5i7a5qo22o%40group.calendar.google.com
+- Weekly round table Google Hangout every Tuesdaynight (see calendar)
+
+### Files
+
+- https://github.com/codeforeurope Main git for Code for Europe
+- Google drive
+
+- https://github.com/codefornl Main git for Code for NL
+
 # ATTENTION
 
 We are trying to list all available existing Code For products and services and listing project ideas and problems for future collaboration projects between European cities / fellowships.
