@@ -118,6 +118,9 @@ We are trying to list all available existing Code For products and services and 
 ### Ireland
  - Code for Ireland: http://codeforireland.com/
 
+### Belgium
+- Code for Belgium: https://github.com/codeforbelgium
+
 ### Romania
  - Code for Romania: ?
  - Girls Who Code: https://www.girlswhocode.ro/
