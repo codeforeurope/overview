@@ -2,6 +2,8 @@
 
 This is an overview of Code for Europe and related activities. As Code for Europe evolves, this document will change along.
 
+Please check http://codefor.eu for the event calendar, contact information and more.
+
 ## Resources
 
 ### ROUND TABLE
@@ -26,15 +28,19 @@ Main website for Code for Europe
 
 #### http://www.codeforeurope.net
 
-Old website for Code for Europe
+Old website for Code for Europe (needs to be redirected to codefor.eu)
 
 #### http://codeforeurope.eu/
 
-Old website for Commons for Europe
+Old website for Commons for Europe (needs to be redirected to codefor.eu)
 
 #### http://www.codefor.nl
 
-Main website for Code for NL
+Main website for Code for NL (needs to be updated)
+
+#### https://trello.com/codeforeurope/members
+
+Old public Trello board (needs to be removed / revived)
 
 ### Social Media
 
