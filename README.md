@@ -15,11 +15,6 @@ Please check http://codefor.eu for the event calendar, contact information and m
 #### https://calendar.google.com/calendar/embed?src=qsvt3n6jmd85jdnk5i7a5qo22o%40group.calendar.google.com
 
 Event calendar
-
-#### https://www.meetup.com/Code-For-NL-Meetup/
-
-Code for NL meetup group
-
 ### Websites
 
 #### http://www.codefor.eu
@@ -34,31 +29,9 @@ Old website for Code for Europe (needs to be redirected to codefor.eu)
 
 Old website for Commons for Europe (needs to be redirected to codefor.eu)
 
-#### http://www.codefor.nl
-
-Main website for Code for NL (needs to be updated)
-
 #### https://trello.com/codeforeurope/members
 
 Old public Trello board (needs to be removed / revived)
-
-### Social Media
-
-#### https://www.linkedin.com/groups/13514022
-
-LinkedIn Group
-
-#### @codeforeu
-
-Main Twitter account for Code for Europe
-
-#### @code4europe
-
-Old Twitter account (unknown owner)
-
-#### @codefornl
-
-Main Twitter account for Code for NL
 
 #### codeforall.slack.com #region-europe
 
@@ -68,53 +41,21 @@ Request your invite johan.groenen@gmail.com
 
 #### Mailgun
 
-### Files
-
-#### https://github.com/codeforeurope
-
-Main git for Code for Europe
-
 #### Google drive
-
-#### https://github.com/codefornl
-
-Main git for Code for NL
-
-### Projects overview
 
 - https://ogptoolbox.org/ OGP Toolbox
 
-# ATTENTION
-
-We are trying to list all available existing Code For products and services and listing project ideas and problems for future collaboration projects between European cities / fellowships.
-
-# Overview of Code For Europe and related stuff
-
 ## Links
- - Code for Europe: http://codeforeurope.net/
+ - Code for Europe: [Website](http://codeforeurope.net/),[LinkedIn](https://www.linkedin.com/groups/13514022), [Github](https://github.com/codeforeurope) and [Twitter](https://twitter.com/codeforeu)
  - Code for All: https://codeforall.org/
  - Code for All Partners: https://codeforall.org/partners/
  - Code for America: https://codeforamerica.org
-
-## Teams
-
+ 
 ### Finland
- - Forum Virium (Code for Finland): https://forumvirium.fi/
- - 6Aika: https://6aika.fi/in-english/
-
-### Helsinki (Finland)
- - Helsinki Code Fellows: https://dev.hel.fi/
+ - Code For Finland: [Forum Virium (Code for Finland)](https://forumvirium.fi/), [6Aika](https://6aika.fi/in-english/) and [Helsinki Code Fellows](https://dev.hel.fi/)
  
 ### Netherlands
-- Waag: https://www.waag.org
-- Code for NL: http://codefor.nl
-
-### Eindhoven (Netherlands)
- - [Twitter](https://twitter.com/code4eindhoven)
- - [Facebook](https://www.facebook.com/codeforeindhoven)
- - [Github](https://github.com/CodeForEindhoven)
-
-### Amsterdam (Netherlands)
+ - Code for NL: [Website](http://codefor.nl), [Github](https://github.com/codefornl), [Twitter](https://twitter.com/codefornl), [Facebook](https://www.facebook.com/codefornl) and [Meetup](https://www.meetup.com/Code-For-NL-Meetup/)
  - DataLab Amsterdam (data coworking space): https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/
  - FIX teams (service design for cities): http://www.tiltshift.nl
 
@@ -128,8 +69,7 @@ We are trying to list all available existing Code For products and services and 
 - Code for Belgium: https://github.com/codeforbelgium
 
 ### Romania
- - Code for Romania: ?
- - Girls Who Code: https://www.girlswhocode.ro/
+ - Code for Romania: [Website](http://code4.ro), [Girls Who Code](https://www.girlswhocode.ro/) and [Github](https://github.com/code4romania)
 
 ### Poland
  - Code for Poland: http://kodujdlapolski.pl/
