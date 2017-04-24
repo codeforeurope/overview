@@ -42,16 +42,6 @@ We host a weekly online __round table__ on Google Hangouts every Tuesdaynight, s
 ### Poland
  - Code for Poland: http://kodujdlapolski.pl/
 
-## People
- - Ivonne Jansen-Dings (Netherlands)
- - Johan Groenen (Netherlands): http://www.jgroenen.nl/
- - Riku Oja (Helsinki): http://dev.hel.fi/
- - Milo van der Linden (Netherlands, Curaçao, Jamaica): http://www.dogodigi.net
- - Marcel Goethals (Netherlands): http://www.wolkenmachine.nl/
- - Bas Biezemans (Netherlands, Taiwan)
- - Job Spierings (Netherlands)
- - Coen Bergman (Netherlands)
-
 ## Open Data
  - Amsterdam: http://data.amsterdam.nl/
  - Helsinki Region Infoshare: http://www.hri.fi
