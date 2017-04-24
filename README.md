@@ -1,52 +1,20 @@
 # Code for Europe
 
 This is an overview of Code for Europe and related activities. As Code for Europe evolves, this document will change along.
-
 Please check http://codefor.eu for the event calendar, contact information and more.
 
 ## Resources
 
-### ROUND TABLE
+We host a weekly online __round table__ on Google Hangouts every Tuesdaynight, see [calendar](https://calendar.google.com/calendar/embed?src=qsvt3n6jmd85jdnk5i7a5qo22o%40group.calendar.google.com)
 
-#### Weekly round table Google Hangout every Tuesdaynight (see calendar below)
+- Mailchimp
+- Mailgun
+- Google drive
 
-### Events
-
-#### https://calendar.google.com/calendar/embed?src=qsvt3n6jmd85jdnk5i7a5qo22o%40group.calendar.google.com
-
-Event calendar
-### Websites
-
-#### http://www.codefor.eu
-
-Main website for Code for Europe
-
-#### http://www.codeforeurope.net
-
-Old website for Code for Europe (needs to be redirected to codefor.eu)
-
-#### http://codeforeurope.eu/
-
-Old website for Commons for Europe (needs to be redirected to codefor.eu)
-
-#### https://trello.com/codeforeurope/members
-
-Old public Trello board (needs to be removed / revived)
-
-#### codeforall.slack.com #region-europe
-
-Request your invite johan.groenen@gmail.com
-
-#### Mailchimp
-
-#### Mailgun
-
-#### Google drive
-
-- https://ogptoolbox.org/ OGP Toolbox
-
-## Links
- - Code for Europe: [Website](http://codeforeurope.net/),[LinkedIn](https://www.linkedin.com/groups/13514022), [Github](https://github.com/codeforeurope) and [Twitter](https://twitter.com/codeforeu)
+## General
+ - https://ogptoolbox.org/ OGP Toolbox
+ - Code for Europe: [Website](http://codefor.eu), [LinkedIn](https://www.linkedin.com/groups/13514022), [Github](https://github.com/codeforeurope), [Trello](https://trello.com/codeforeurope/members), slack channel [#code-for-europe](https://codeforall.slack.com) and [Twitter](https://twitter.com/codeforeu)
+ 
  - Code for All: https://codeforall.org/
  - Code for All Partners: https://codeforall.org/partners/
  - Code for America: https://codeforamerica.org
